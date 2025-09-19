@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: Tree7
+  m_Name: Tree8
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: -1647534796, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
-  - {fileID: -713282219, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
-  - {fileID: 398189817, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
-  - {fileID: 1307495296, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
-  - {fileID: 1574270155, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
-  - {fileID: 2116162722, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
+  - {fileID: -201526825, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
+  - {fileID: 1508200662, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
+  - {fileID: 639755922, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
+  - {fileID: -322971445, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
+  - {fileID: -162302998, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
+  - {fileID: -134356816, guid: f348c36c5fb422e4bb8a698fc60d6529, type: 3}
   m_MinSpeed: 5
   m_MaxSpeed: 5
   m_AnimationStartTime: 0
